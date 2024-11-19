@@ -1,7 +1,7 @@
 ---
 date : '2024-11-18T15:03:33+06:00'
 type : page
-title : 'Cv'
+title : 'CV'
 ---
 # Aunonno Farhan
 
