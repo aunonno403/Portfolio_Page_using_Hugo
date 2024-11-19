@@ -14,6 +14,7 @@ Email: aunonnofarhan9@gmail.com | Phone: 01676997401 | Facebook: [Aunonno Farhan
 - Bachelor of Science in Computer Science and Engineering, Jahangirnagar University (2020-2025) - CGPA: N/A
 
 ## Projects
+- [Calculator](https://aunonno403.github.io/calculator/) - A simple Scientific Calculator.
 - [Tick-Tack-Toe](https://aunonno403.github.io/Tick-Tack-Toe/) - A simple game created using HTML, CSS, and JavaScript.
 - [Tribute Page](https://aunonno403.github.io/Tribute-Page/) - A tribute page dedicated to Norman Borlaug.
 - [Product Landing Page](https://aunonno403.github.io/Product-Landing-Page/) - A landing page for a handcrafted trombone company.
