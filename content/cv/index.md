@@ -3,6 +3,8 @@ date : '2024-11-18T15:03:33+06:00'
 type : page
 title : 'CV'
 ---
+![Aunonno Farhan](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-1/457472885_8014437598603968_6692632079608146908_n.jpg?stp=dst-jpg_s160x160&_nc_cat=107&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeEe5wGQhbriLam2ReVo6BkQSWeGVsPscAlJZ4ZWw-xwCc_Pn84K3niYsxaUDUSvYoJ_vcCASg7m_S25SMRZpsV4&_nc_ohc=xKWtDxdF6wQQ7kNvgHoeEkV&_nc_zt=24&_nc_ht=scontent.fdac135-1.fna&_nc_gid=A2HK8XLT_tL5WgaYxhglQTK&oh=00_AYCrbAYs0QR_gSMVa1DUwLTwP4eeE_6jAz9xMXr7lVRe_Q&oe=673CD7F9)
+
 # Aunonno Farhan
 
 **Contact Info:**  
